@@ -1,0 +1,1 @@
+console.log (" de ce dracu nu merge cacatu asta ")
